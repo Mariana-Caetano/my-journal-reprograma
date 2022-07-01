@@ -1,9 +1,6 @@
 import { useState } from 'react'
 import Title from './Title'
 import About from './components/About'
-//import Subtitle from './Subtitle'
-//import Paragraph from './Paragraph'
-//import Image from './Image'
 
 function App() {
   const [count, setCount] = useState(0)

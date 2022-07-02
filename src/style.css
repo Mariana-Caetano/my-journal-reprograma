@@ -22,3 +22,16 @@
       font-weight: bold;
       text-align: center;
   }
+
+  .aboutMe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin: 40px auto;
+  }
+
+  .aboutMe img {
+    width: 50%;
+    height: 50%;
+  }

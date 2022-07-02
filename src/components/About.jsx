@@ -1,10 +1,12 @@
 function About(props) {
     return(
         <>
-            <div>
-                <h2>{props.subtitle}</h2>
-                <p>{props.text}</p>
+            <div className="aboutMe">
                 <img src={props.pic} alt={props.description} />
+                <div className="aboutTitle">
+                    <h2>{props.subtitle}</h2>
+                    <p>{props.text}</p>
+                </div>
             </div>
         </>
     )

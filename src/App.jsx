@@ -16,7 +16,8 @@ function App() {
 
       <About 
         subtitle="Prazer, Mariana"
-        text="Aluna da Reprograma e Technical Writer"
+        text="Aluna da Reprograma, Technical Writer e fã dos filmes do Studio Ghibli nas horas vagas.
+        Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.Delegadis gente finis, bibendum egestas augue arcu ut est.Si num tem leite então bota uma pinga aí cumpadi!Quem num gosta di mé, boa gentis num é."
         pic="../src/assets/foto-Mariana.png" description="Foto Mariana"
       />
 

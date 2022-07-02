@@ -3,7 +3,7 @@ function About(props) {
         <>
             <div className="aboutMe">
                 <img src={props.pic} alt={props.description} />
-                <div className="aboutTitle">
+                <div className="aboutContent">
                     <h2>{props.subtitle}</h2>
                     <p>{props.text}</p>
                 </div>

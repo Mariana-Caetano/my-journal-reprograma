@@ -26,25 +26,25 @@ function App() {
 
       <Content 
         contentSubtitle="GIT"
-        contentImg="../src/assets/kiki-git.jpg"
+        contentImg="../src/assets/kiki git.gif"
         contentText="Mussum Ipsum, cacilds vidis litro abertis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Delegadis gente finis, bibendum egestas augue arcu ut est.Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Aenean aliquam molestie leo, vitae iaculis nisl."
       />
 
       <Content 
-        contentSubtitle="GIT"
-        contentImg="../src/assets/kiki-git.jpg"
+        contentSubtitle="HTML"
+        contentImg="../src/assets/kiki html.gif"
         contentText="Mussum Ipsum, cacilds vidis litro abertis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Delegadis gente finis, bibendum egestas augue arcu ut est.Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Aenean aliquam molestie leo, vitae iaculis nisl."
       />
 
       <Content 
-        contentSubtitle="GIT"
-        contentImg="../src/assets/kiki-git.jpg"
+        contentSubtitle="CSS"
+        contentImg="../src/assets/kiki css.gif"
         contentText="Mussum Ipsum, cacilds vidis litro abertis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Delegadis gente finis, bibendum egestas augue arcu ut est.Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Aenean aliquam molestie leo, vitae iaculis nisl."
       />
 
       <Content 
-        contentSubtitle="GIT"
-        contentImg="../src/assets/kiki-git.jpg"
+        contentSubtitle="JavaSript"
+        contentImg="../src/assets/kiki js.gif"
         contentText="Mussum Ipsum, cacilds vidis litro abertis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Delegadis gente finis, bibendum egestas augue arcu ut est.Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Aenean aliquam molestie leo, vitae iaculis nisl."
       />
 

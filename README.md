@@ -1,6 +1,6 @@
 # My Reprograma journal
 
-The Reprograma journal is a personal journal about my journey on the Reprograma bootcamp, created with [ReactJS](https://reactjs.org/).
+[The Reprograma journal](https://reprograma-journal.netlify.app/) is a personal journal about my journey on the Reprograma bootcamp, created with [ReactJS](https://reactjs.org/).
 
 ## React concepts used
 

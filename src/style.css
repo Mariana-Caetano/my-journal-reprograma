@@ -49,3 +49,66 @@
       font-weight: 300;
       font-size: 18px;
   }
+
+  .contentTitle{
+    margin: 3rem 0;
+    color: rgb(173, 97, 243);
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .allContent{
+      margin: 3em;
+      display: block;
+  }
+
+  .allContent h3{
+      text-align: center;
+  }
+  .allContent img{
+      padding-top: 2em;
+      padding-bottom: 2em;
+      margin-left: 28em;
+      align-items: center;
+      width: 30%;
+      height: 25%;
+  }
+  .allContent p{
+      margin-left: 20em;
+      text-align: center;
+      width: 50%;
+  }
+  
+
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(173, 97, 243);
+    color: #fff;
+  }
+
+  @media (max-width: 800px) {
+    h1 {
+        font-size: 1em;
+    }
+  
+    .aboutContent h2 {
+        font-weight: 900;
+        font-size: 15px;
+    }
+  
+    .aboutContent p {
+        font-weight: 300;
+        font-size: 11px;
+    }
+
+    .contentTitle{
+        font-size: 1rem;
+        text-align: center;
+      }
+  
+  }

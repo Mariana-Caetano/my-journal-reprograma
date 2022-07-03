@@ -1,6 +1,9 @@
 function Footer(props) {
     return(
-       <p>{props.footerText}</p> 
+    <div className="footer">
+        <p>{props.footerText}</p> 
+    </div>
+       
     )
 }
 

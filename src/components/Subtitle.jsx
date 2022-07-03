@@ -1,7 +1,10 @@
 function Subtitle(props) {
     return(
         <>
-            <h2>{props.contentTitle}</h2>
+        <div className="contentTitle">
+        <h2>{props.contentTitle}</h2>
+        </div>
+            
         </>
     )
 }
